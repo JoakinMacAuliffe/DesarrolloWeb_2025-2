@@ -1,6 +1,6 @@
 // <![CDATA[
 var news=Array("WE ABSOLUTELY DON'T CARE IF YOU FORGOT YOUR PASSWORD!",
-    "WE'RE WAY TOO BUSY TO CODE SOLUTIONS FOR YOUR PROBLEMS!");
+    "WE'RE WAY TOO BUSY TO CODE SHIT FOR YOUR SAKE!");
 var cursor="_"; // set cursor
 var delay=10; // seconds between each news item
 

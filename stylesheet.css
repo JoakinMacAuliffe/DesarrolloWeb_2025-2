@@ -14,7 +14,7 @@ body {
 
 .disclaimer-box {
     display: flex;
-    border: 2px solid black;
+    border: 2px solid black;    
     align-items: center;
     justify-content: center;
     flex-direction: column;
@@ -48,7 +48,7 @@ body {
 
 .big-text {
     font-size: 25px;
-    font-weight: 600;
+    font-weight: 600;   
 }
 
 .smaller-spacer {
@@ -67,16 +67,16 @@ body {
 
     border: 2px solid black;
     border-radius: 12px;
-    animation: borderFlash 2s ease infinite;
+    animation: borderFlash 2s ease 1 forwards;
 
     display: flex; /* flex layout makes it easier to align and space stuff */
     flex-direction: column; 
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     text-align: center;
 
     width: 400px;
-    height: 380px;
+    height: 550px;
 }
 
 .text-input {
