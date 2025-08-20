@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: monospace;
+    min-height: 100vh;
+    margin: 0;
+    padding-top: 50px;
+}
+
+.login-container {
+    background-color:lightblue;
+    display: flow;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 0;     
+
+    box-sizing: content-box;
+
+    border: 2px solid black;
+    border-radius: 15px;
+
+}
