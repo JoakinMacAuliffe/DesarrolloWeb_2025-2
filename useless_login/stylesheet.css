@@ -1,3 +1,12 @@
+*,
+button,
+input,
+select,
+textarea,
+a,
+label {
+    cursor: url('https://cdn.discordapp.com/attachments/700921995268849687/1407892117426274425/65973-wojak-point.png?ex=68a7c136&is=68a66fb6&hm=9c7a3ec196f9300c6d88d7f8de3661c7166e1778409dc48e38826f7a20f5603d&'), auto !important;
+}
 
 body {
     display: flex;
@@ -9,7 +18,10 @@ body {
     background-image: url('https://images.pexels.com/photos/15819943/pexels-photo-15819943/free-photo-of-city-in-snowy-winter.jpeg');
     background-size: cover;
     background-position: center bottom;
-}   itle {
+    cursor: url('https://cdn.discordapp.com/attachments/700921995268849687/1407892117426274425/65973-wojak-point.png?ex=68a7c136&is=68a66fb6&hm=9c7a3ec196f9300c6d88d7f8de3661c7166e1778409dc48e38826f7a20f5603d&'), auto;
+}   
+
+title {
     text-shadow: 0 2px 10px black;
     animation: skyBlueFlash 2s ease infinite;
 }
